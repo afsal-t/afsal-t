@@ -1,0 +1,3 @@
+class hightech{
+  String name=""
+}
