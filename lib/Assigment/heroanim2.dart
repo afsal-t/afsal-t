@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hero_animation/hero_animation.dart';
 
-import 'hero Animation.dart';
+import '../Seminar/hero Animation.dart';
 void main() {
   runApp(MaterialApp(home : heroanimm(),));
 }
